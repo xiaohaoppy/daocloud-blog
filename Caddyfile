@@ -1,6 +1,6 @@
 localhost:2015 {
     root /public/
-    git https://github.com/xiaohaoppy/myblog.git /public/ {
+    git https://github.com/xiaohaoppy/myblog.git / {
         interval 60
     }
 }
