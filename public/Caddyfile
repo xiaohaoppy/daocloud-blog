@@ -1,4 +1,4 @@
-xiaohaoppy.daoapp.io {
+localhost:2015 {
     root /public
     gzip
     git https://github.com/xiaohaoppy/myblog.git /public {
