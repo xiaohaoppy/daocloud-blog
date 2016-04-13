@@ -1,7 +1,7 @@
 xiaohaoppy.daoapp.io {
     root /public
     gzip
-    git https://github.com/xiaohaoppy/.git /public {
+    git https://github.com/xiaohaoppy/myblog.git /public {
         interval 60
     }
 }
