@@ -1,7 +1,6 @@
 FROM centos
 MAINTAINER haixiao <xiaohaoppy@163.com>
 RUN yum install git -y
-ADD public/ /public/
 ADD caddy /bin/
 ADD run.sh /
 ADD Caddyfile /
