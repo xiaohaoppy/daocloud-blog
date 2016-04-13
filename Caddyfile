@@ -1,10 +1,6 @@
-localhost:2014 {
+localhost:2015 {
     root /public/
-    git https://coding.net/u/haixiao/p/myblog.git / {
+    git https://github.com/xiaohaoppy/myblog.git / {
         interval 60
     }
-}
-
-localhost:2015 {
-    root /public/myblog/
 }
