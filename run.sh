@@ -1,3 +1,3 @@
 #!/bin/bash
 
-caddy -conf="/Caddyfile"
+caddy -conf="/public/Caddyfile"
